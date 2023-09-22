@@ -12,11 +12,17 @@ After sharing a Google response form to the trainees 47 responses were received.
 
 ## A: OVERALL EVALUTION:
 I)	Assessing the Clarity of the training objectives as outlined in the training Curriculum. Evaluating the responses to understand if the trainees understood of what the training aimed to achieve by determining whether the training objectives provided were clearly defined and communicated effectively to the trainees.
+
 II)	Evaluating the responses to gauge the level of participation and interaction during the training sessions through identifying the extent to which they were engaged in activities, questions and discussions.
+
 III)	To assess whether the trainees found the content provide applicable to career needs and whether they met the trainees’ expectations.
+
 IV)	Determining to what extent the training would be beneficial to the trainees in their job search and career advancement based on the knowledge and skills gained.
+
 V)	Measuring to what extent the training objectives were met – Assessing trainees’ perception of their own progress to achieve the targeted learning outcomes.
+
 VI)	Pinpointing Major suggestions, feedback, trainees’ overall satisfaction according to expectations and recommendations as provided by the trainees to enhance future training sessions.
+
 VII)	Evaluating trainers on their mode of delivery, engagement and effectiveness in meeting the needs of the trainees.
 
 # DATA SOURCING
@@ -57,26 +63,26 @@ Renamed the columns as follows;
 
 # ANALYSIS
 #### a)	Overall Evaluation dataset
-Create a measure of Total Responses.
-Create a number card to show Total Responses.
-Create a column clustered bar chart to show clarity of the training objectives as outlined in the training curriculum out of the total responses.
-Create a clustered bar chart to show the trainees response on how they were encouraged to participate and interact during the training.
-Create a column bar chart to show trainees response on the effectiveness of implementation of the training objectives.
-Create a column bar chart to show trainees evaluation on the relevance of the topics offered during the training.
-Create a column clustered bar chart to analyze the trainee’s evaluation based on the organization of the training content.
-Create a Word Cloud chart to show any aspects improvements that could be improved to make it more effective.
-Create a Word Cloud chart to show any future trainings the trainees would like to be part of.
-Create a Word Cloud chart to show other comments from the trainees.
+- Create a measure of Total Responses.
+- Create a number card to show Total Responses.
+- Create a column clustered bar chart to show clarity of the training objectives as outlined in the training curriculum out of the total responses.
+- Create a clustered bar chart to show the trainees response on how they were encouraged to participate and interact during the training.
+- Create a column bar chart to show trainees response on the effectiveness of implementation of the training objectives.
+- Create a column bar chart to show trainees evaluation on the relevance of the topics offered during the training.
+- Create a column clustered bar chart to analyze the trainee’s evaluation based on the organization of the training content.
+- Create a Word Cloud chart to show any aspects improvements that could be improved to make it more effective.
+- Create a Word Cloud chart to show any future trainings the trainees would like to be part of.
+- Create a Word Cloud chart to show other comments from the trainees.
 
 #### c)	Trainers Evaluation dataset
-Create a measure of Total Responses
-Create a slicer for the trainers.
-Create a pie chart to analyze the preparedness of the trainers.
-Create a clustered bar chart to analyze effectiveness of the trainers in simulating the interests and engaging learners.
-Create a clustered column bar chart to analyze the trainer’s effectiveness and their ability to utilize time effectively.
-Create a donut chart to analyze feedback responses of the trainer’s knowledge of the training content.
-Create a clustered bar chart to analyze the clarity and organization of the trainers’ presentations during the training.
+- Create a measure of Total Responses
+- Create a slicer for the trainers.
+- Create a pie chart to analyze the preparedness of the trainers.
+- Create a clustered bar chart to analyze effectiveness of the trainers in simulating the interests and engaging learners.
+- Create a clustered column bar chart to analyze the trainer’s effectiveness and their ability to utilize time effectively.
+- Create a donut chart to analyze feedback responses of the trainer’s knowledge of the training content.
+- Create a clustered bar chart to analyze the clarity and organization of the trainers’ presentations during the training.
 
 # VISUALIZATION, ANALYSIS AND RECOMMENDATIONS
 ## 1.	Objectives Clearly defined;
-![Screenshot 2023-09-15 125104](C:\Users\gacek\OneDrive\Pictures\Screenshots\Screenshot 2023-09-15 125104.png)
+![Screenshot 2023-09-15 125104]
