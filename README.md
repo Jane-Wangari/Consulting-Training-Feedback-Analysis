@@ -1,9 +1,10 @@
 # EDAS Consulting-Training-Feedback-Analysis
 Insights from a google form response for trainees who took part in a CV and Interview training offered by EDAS Consulting.
 
-![Screenshot 2023-09-20 114832](https://github.com/Jane-Wangari/Consulting-Training-Feedback-Analysis/assets/110452335/24ea861e-940a-4910-a288-18f6854fb522)
-![Screenshot 2023-09-20 114809](https://github.com/Jane-Wangari/Consulting-Training-Feedback-Analysis/assets/110452335/ce3d9b74-734c-4fa9-adee-7032032de9fe)
-![Screenshot 2023-09-20 114617](https://github.com/Jane-Wangari/Consulting-Training-Feedback-Analysis/assets/110452335/eb7fcf59-250e-4941-9a2e-120b90dc0476)
+![Screenshot 2023-09-20 114832 (2)](https://github.com/Jane-Wangari/Consulting-Training-Feedback-Analysis/assets/110452335/01d5615a-5920-47f0-9c69-24ace9902265)
+![Screenshot 2023-09-20 114809 (2)](https://github.com/Jane-Wangari/Consulting-Training-Feedback-Analysis/assets/110452335/f67ca1c5-a554-4e8f-bea7-93d80f1136e4)
+![Screenshot 2023-09-20 114617 (2)](https://github.com/Jane-Wangari/Consulting-Training-Feedback-Analysis/assets/110452335/95010a55-fd46-46f0-81ad-d2b8abae7562)
+
 
 # OVERVIEW
 EDAS Consulting is a Consulting firm that offers Human Resources services such as Training, Human Resource Consultancy, Advisory and all Labour Relations services related to aspects of employment. Data to gauge feedback from the trainer’s experience during the training was collected between 28/08/2023 at 9.12.20 am and 31/08/2023 at 10.06.01 p.m following a training conducted by two of the firm trainers on the following topics; 
